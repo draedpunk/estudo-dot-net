@@ -12,3 +12,4 @@ C:\Users\Dell\OneDrive\Desktop\Estudos\estudos-dot-net\obj\Debug\net9.0\refint\e
 C:\Users\Dell\OneDrive\Desktop\Estudos\estudos-dot-net\obj\Debug\net9.0\estudos-dot-net.pdb
 C:\Users\Dell\OneDrive\Desktop\Estudos\estudos-dot-net\obj\Debug\net9.0\estudos-dot-net.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\Desktop\Estudos\estudos-dot-net\obj\Debug\net9.0\ref\estudos-dot-net.dll
+C:\Users\Dell\OneDrive\Desktop\Estudos\estudos-dot-net\obj\Debug\net9.0\estudos-dot-net.sourcelink.json

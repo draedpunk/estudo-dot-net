@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
-Console.WriteLine("morcegao");
+﻿using estudos_dot_net.Models;
+
+Pessoa pessoa = new Pessoa();
+
+pessoa.Nome = "Paula Tejano";
+pessoa.Idade = 35;
+pessoa.Apresentar();
