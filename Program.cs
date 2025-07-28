@@ -1,30 +1,41 @@
 ﻿using estudos_dot_net.Models;
 
-Console.WriteLine("Digite uma letra:");
-string letra = Console.ReadLine();
+// colacar no arquivo Program.cs
+// refatoração 
 
-switch (letra)
+string opcao;
+bool exibirMenu = true;
+
+while(exibirMenu)
 {
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("VOGAL");
-        break;
+    Console.Clear();
+    Console.WriteLine("Digite a sua opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar sessão");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao)
+    {
+    case "1":
+        Console.WriteLine("Cadastro de Cliente");
+        break; 
+    case "2":
+        Console.WriteLine("Buscar um Específico");
+        break; 
+    case "3":
+        Console.WriteLine("Apagar um Cliente");
+        break; 
+    case "4":
+        Console.WriteLine("Encerrando a sessão...");
+        exibirMenu = false;
+        break; 
     default:
-        Console.WriteLine("Não é uma vogal");
+        Console.WriteLine("Opção inválida!");
         break;
+    }
+
 }
-
-// Pessoa pessoa = new Pessoa();
-
-// pessoa.Nome = "Paula Tejano";
-// pessoa.Idade = 35;
-// pessoa.Apresentar();
-
-// DateTime dataAtual = DateTime.Now.AddDays(5);
-// Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
-
-// Olá, meu nome é Paula Tejano e tenho 35 anos.
-// 01/08/2025 18:12
+Console.WriteLine("O programa encerrou.");
