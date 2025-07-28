@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\Estudos\\estudos-dot-net\\estudos-dot-net.csproj": {}
+    "C:\\Users\\Dell\\estudos-dot-net-backup\\EstudosDotNet\\estudos-dot-net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\Estudos\\estudos-dot-net\\estudos-dot-net.csproj": {
+    "C:\\Users\\Dell\\estudos-dot-net-backup\\EstudosDotNet\\estudos-dot-net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\Estudos\\estudos-dot-net\\estudos-dot-net.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\estudos-dot-net-backup\\EstudosDotNet\\estudos-dot-net.csproj",
         "projectName": "estudos-dot-net",
-        "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Estudos\\estudos-dot-net\\estudos-dot-net.csproj",
+        "projectPath": "C:\\Users\\Dell\\estudos-dot-net-backup\\EstudosDotNet\\estudos-dot-net.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Estudos\\estudos-dot-net\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\estudos-dot-net-backup\\EstudosDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
